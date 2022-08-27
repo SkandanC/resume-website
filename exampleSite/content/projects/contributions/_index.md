@@ -1,8 +1,5 @@
 ---
 title: Open Source Contributions
-date: 2020-01-07T16:49:15.046Z
-link: NA
-image: /img/marketplace-summary.webp
 description: NA
 tags:
   - ''
@@ -19,4 +16,4 @@ This page represents the landing page for "contributions" section. It is also sh
 
 
 
-<p>A collection of efforts to which I contributed, but did not create. Contributing back to Open Source projects is a strong passion of mine, and requires a considerate approach to learn norms, standards and approach for each community for a successful merge!</p>
+<p>A list of projects I have contributed to.</p>
